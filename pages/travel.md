@@ -5,6 +5,10 @@ description: Information for participants traveling to Princeton
 permalink: /travel/
 ---
 
+## COVID-19 Policy
+All participants must to adhere to current Princeton University [guidelines, policies, and protocols for visitors and conferences](https://covid.princeton.edu/policies).
+As of November, 2021, this would require attesting to vaccination and wearing masks while indoors except when alone in a room or actively eating/drinking.
+
 
 ## General Notes
 The workshop will be held at the Nassau Inn in Princeton NJ located adjacent to
@@ -15,7 +19,9 @@ visiting Princeton.
 Please send any questions about travel to the workshop to Andrea Rubinstein.
 
 ## Travel Reimbursement
-All participant costs will be covered by the grant. However, please do not make travel arrangements yet. Details as to how to proceed will be sent to all participants before the workshop.  
+Participant costs will be covered by the grant.
+However, please do not make travel arrangements yet.
+Details as to how to proceed will be sent to all participants before the workshop.  
 
 
 ## Travel by Train
@@ -53,7 +59,7 @@ is significantly higher than other alternatives. From there it is convenient to
 take the train as described above.
 
 The next closest airport is Philadelphia International (PHL) but will require
-a 60 min+ Uber/Lyft ride to Princeton. 
+a 60 min+ Uber/Lyft ride to Princeton.
 Another option is flying into John F. Kennedy International Airport (JFK) or
 LaGuardia International Airport (LGA) at the cost of additional travel time.
 From JFK, the easiest is probably to the Airtrain to Jamaica Station and then
