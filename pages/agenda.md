@@ -29,7 +29,7 @@ Read more about the workshop goals [here]({{ site.baseurl }}/about)
 |             |  Track A2: TBD |
 |             |  Track A3: TBD |
 | 4:30 - 5:30 | Report/Discussion from breakout session A |
-| 5:45 - 7:00 | Networking Reception (Tentative: [Prospect House](https://www.princeton.edu/prospecthouse/index.html)) |
+| 5:45 - 8:00 | Workshop Dinner |
 
 <br>
 
