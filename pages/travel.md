@@ -6,7 +6,7 @@ permalink: /travel/
 ---
 
 ## COVID-19 Policy
-All participants must to adhere to current Princeton University [guidelines, policies, and protocols for visitors and conferences](https://covid.princeton.edu/policies).
+All participants must to adhere to all Princeton University [guidelines, policies, and protocols for visitors and conferences](https://covid.princeton.edu/policies) in place at the time of the workshop.
 As of November, 2021, this would require attesting to vaccination and wearing masks while indoors except when alone in a room or actively eating/drinking.
 
 
