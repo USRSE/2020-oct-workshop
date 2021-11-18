@@ -37,7 +37,7 @@ community, those who don’t identify with RSEs but work with RSEs, those who wa
 to support the RSE role, and those want to understand the profession better.
 
 
-To target each of the three main components of the [US-RSE mission](https://us-rse.org/mission),
+To target each of the four main components of the [US-RSE mission](https://us-rse.org/mission),
 we anticipate breakout sessions related to:
 1. Advocacy
   - Defining and advancing the RSE career path
@@ -48,6 +48,9 @@ we anticipate breakout sessions related to:
 1. Community
   - What should future workshops cover?
   - What events or activities does the RSE community want?
+1. Diversity, Equity, and Inclusion (DEI)
+  - How can we build on the efforts of the DEI WG?
+  - What additional initiatives can we support?
 
 
 Specific topics will be decided based on suggestions before and during the workshop by the participants. Possible topics include (but are not limited to):

@@ -4,6 +4,8 @@ title: Diversity Statement
 permalink: /diversity/
 ---
 
+Please see the full [US-RSE DEI mission statement](https://us-rse.org/about/dei-mission/).
+
 We feel strongly that a diverse community represents more potential members,
 has more sources for ideas, and has fewer shared assumptions that might hinder
 the growth of the US-RSE Association.
@@ -11,4 +13,4 @@ the growth of the US-RSE Association.
 The workshop organizers are are committed to ensuring a diverse group of participants
 both in terms of traditional measures of diversity (e.g. race, gender, socioeconomic),
 domains (e.g. HPC, bioinformatics, digital humanities), and organizations (e.g.
-R1 institutions, national labs, industry). 
+R1 institutions, national labs, industry).
