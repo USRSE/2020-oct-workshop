@@ -16,3 +16,4 @@ Invitations are expected to be sent by mid-January.
 Thank you to everyone who expressed interest in attending the original
 workshop. Because of the time that has passed since the initial call
 for participation and the rescheduled workshop, we have started anew.
+If you applied in 2020 and are still interested, please apply again.
