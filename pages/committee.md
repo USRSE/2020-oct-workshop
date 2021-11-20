@@ -18,4 +18,4 @@ permalink: /committee/
 ## Alfred P. Sloan Foundation Grant PIs
 1. Jeffrey C. Carver, University of Alabama
 1. Ian Cosden, Princeton University
-1. Daniel S. Katz, University of Illinois Urbana-Champaign
+1. Daniel S. Katz, University of Illinois at Urbana-Champaign
