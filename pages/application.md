@@ -4,16 +4,18 @@ title: Application
 permalink: /application/
 ---
 
-To express interest in attending the workshop please fill out the
-[US-RSE Workshop Interest Form](https://forms.gle/E5BKkysrfQZ2EtXbA).
-The form will be open until at least December 22, 2021.
+Thank you to everyone who expressed interest in attending the
+workshop. We received significantly more applicants
+than we are able to support.
 
-Invitations are expected to be sent by mid-January.
+We are striving to accommodate as many as possible, but workshop space
+is limited and we are committed to ensuring a broadly diverse
+participant group, both in terms of traditional diversity measures as
+well as research domain and institutional representation.
 
-<br>
+We are not able to offer a remote or hybrid option, however, we do anticipate
+being able to offer some degree of asynchronous participation remotely both
+before and after the workshop.
+US-RSE is a virtual organization and will continue to offer opportunities
+for virtual events and participation throughout the year.
 
-### A note about the 2020 cancellation
-Thank you to everyone who expressed interest in attending the original
-workshop. Because of the time that has passed since the initial call
-for participation and the rescheduled workshop, we have started anew.
-If you applied in 2020 and are still interested, please apply again.
