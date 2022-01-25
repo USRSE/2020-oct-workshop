@@ -13,9 +13,6 @@ is limited and we are committed to ensuring a broadly diverse
 participant group, both in terms of traditional diversity measures as
 well as research domain and institutional representation.
 
-We are not able to offer a remote or hybrid option, however, we do anticipate
-being able to offer some degree of asynchronous participation remotely both
-before and after the workshop.
+We are not able to offer a remote or hybrid option, however,
 US-RSE is a virtual organization and will continue to offer opportunities
 for virtual events and participation throughout the year.
-
